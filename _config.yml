@@ -59,11 +59,11 @@ plugins:
 
 author:
   name   : "Alfaima L. Solano-Blanco"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-photo.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/alfaimasolano/"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
