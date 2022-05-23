@@ -69,7 +69,7 @@ author:
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=4iCKaIMAAAAJ&hl=en"
     - label: "ResearchGate"
-      icon: "fa fa-book"
+      icon: "researchgate"
       url: "https://www.researchgate.net/profile/Alfaima-Solano-Blanco"
     - label: "OrcID"
       icon: "/assets/orcid-square.svg"
