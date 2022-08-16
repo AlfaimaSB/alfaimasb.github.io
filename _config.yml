@@ -81,14 +81,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AlfaimaSB"
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fa fa-linkedin"
-      url: "https://www.linkedin.com/in/alfaimasolano/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#footer:
+#  links:
+#    - label: "LinkedIn"
+#      icon: "fa fa-linkedin"
+#      url: "https://www.linkedin.com/in/alfaimasolano/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
@@ -102,6 +105,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
