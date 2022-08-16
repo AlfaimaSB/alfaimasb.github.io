@@ -16,9 +16,8 @@
 title: Alfaima L. Solano Blanco
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Instructor at Universidad de los Andes
+  Suporting actionable decision making with optimization
 twitter_username: AlfaimaSB
 github_username: AlfaimaSB
 minimal_mistakes_skin: default
@@ -60,13 +59,14 @@ plugins:
 author:
   name   : "Alfaima L. Solano-Blanco"
   avatar : "/assets/images/profile-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Instructor at Universidad de los Andes \n
+  Suporting actionable decision making with optimization"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alfaimasolano/"
     - label: "University page"
-      icon: "fab fa-building-columns"
+      icon: "fab fa-fw fa-building-columns"
       url: "https://academia.uniandes.edu.co/AcademyCv/al.solano"
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar"
