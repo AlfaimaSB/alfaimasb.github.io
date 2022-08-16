@@ -1,8 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_image: /assets/images/nudosilla.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: Alfaima L. Solano-Blanco"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Alfaima L. Solano-Blanco is Instructor of Industrial Engineering at Universidad de los Andes (Bogotá, Colombia). She holds a master’s degree in Industrial Engineering from Universidad de los Andes (Bogotá, Colombia) and a bachelor degree in Industrial Engineering from Universidad del Magdalena (Santa Marta, Colombia). Her current research interests include the development and application of operation research techniques, particularly optimization, for more sustainable production systems, with a focus in addressing the challenges of agri-food and biobased production systems. At Uniandes, Alfaima offers lectures in the courses of optimization principles and decision support systems. She also supervised the team The Optimistics that made it into the finals of the Modeling and Optimization: Theory and Applications (MOPTA) competition in 2021. In 2020, she participated as finalist of the MOPTA competition with the team MαD Condors. 
