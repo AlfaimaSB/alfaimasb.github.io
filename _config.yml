@@ -66,7 +66,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alfaimasolano/"
     - label: "University page"
-      icon: "fab fa-fw fa-building-columns"
+      icon: "fa fa-fw fa-university"
       url: "https://academia.uniandes.edu.co/AcademyCv/al.solano"
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar"
