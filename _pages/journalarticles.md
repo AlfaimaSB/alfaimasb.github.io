@@ -12,7 +12,7 @@ classes: wide
 
 # 2022
 
-2. Blanco, M., Montes, F., Borrero-Echeverry, F., Solano-Blanco, A.L., Gomez, C., Zuluaga, P., Rivera-Trujillo, H.F. and Rincon, D.F. (2022), [A participative system methodology to model pest dynamics in an agricultural setting]({% link _posts/2022-03-30-pestdynamics-participative %}), Kybernetes, [https://doi.org/10.1108/K-08-2021-0663](https://doi.org/10.1108/K-08-2021-0663)
+2. Blanco, M., Montes, F., Borrero-Echeverry, F., Solano-Blanco, A.L., Gomez, C., Zuluaga, P., Rivera-Trujillo, H.F. and Rincon, D.F. (2022), [A participative system methodology to model pest dynamics in an agricultural setting]({% link _posts/2022-03-30-pestdynamics-participative.md %}), Kybernetes, [https://doi.org/10.1108/K-08-2021-0663](https://doi.org/10.1108/K-08-2021-0663)
 
 # 2020
 
