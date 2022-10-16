@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlfaimaSB/alfaimasb.github.io)
 
-:star: This is my personal site [alfaimasb.github.io/](https://alfaimasb.github.io){:target="_blank"}. 
+:star: This is my personal site <a href="https://alfaimasb.github.io" target="_blank">alfaimasb.github.io</a>. 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlfaimaSB?style=social)
 
