@@ -7,18 +7,12 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-html {
-    font-size: 12px; // change to whatever
-  
-    @include breakpoint($medium) {
-      font-size: 14px; // change to whatever
-    }
-  
-    @include breakpoint($large) {
-      font-size: 16px; // change to whatever
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 18px; // change to whatever
-    }
-  }
+/* type scale */
+$type-size-1: 1.1em !default; // ~39.056px
+$type-size-2: 1em !default; // ~31.248px
+$type-size-3: 0.9em !default; // ~25.008px
+$type-size-4: 0.8em !default; // ~20px 1.25em
+$type-size-5: 0.7em !default; // ~16px
+$type-size-6: 0.68em !default; // ~12px
+$type-size-7: 0.65em !default; // ~11px
+$type-size-8: 0.6em !default; // ~10px
