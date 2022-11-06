@@ -9,5 +9,17 @@ header:
 
 Welcome to my personal website.
 
-<blockquote class="twitter-timeline" data-lang="en"><p lang="en" dir="ltr">Tweets by AlfaimaSB <a href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a></p>&mdash; Tweets by AlfaimaSB <a href=https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw"></a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<section id="main-description">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        Let's add some content here
+      </div>
+      <div class="col-md-4">
+        <div>
+          <a class="twitter-timeline" href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
