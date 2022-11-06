@@ -4,7 +4,7 @@ title: "About"
 header:
   overlay_image: /assets/images/nudosilla.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: Alfaima L. Solano-Blanco"
+  caption: "Nudosillas. Photo credit: Alfaima L. Solano-Blanco"
 classes: wide
 ---
 
