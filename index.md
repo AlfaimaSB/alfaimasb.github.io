@@ -8,3 +8,5 @@ header:
 ---
 
 Welcome to my personal website.
+
+{% twitter https://twitter.com/AlfaimaSB maxwidth=500 limit=5 %}
