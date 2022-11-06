@@ -7,7 +7,7 @@ header:
   caption: "Chingaza mountains. Photo credit: Alfaima L. Solano-Blanco"
 ---
 
-{% include _toc_twitter.html %}
+{% include toc_twitter.html %}
 
 Welcome to my personal website.
 
