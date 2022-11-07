@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 header:
   image: /assets/images/chingaza.jpg
