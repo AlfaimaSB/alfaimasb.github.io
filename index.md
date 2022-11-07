@@ -15,7 +15,7 @@ Welcome to my personal website.
     ...
   </div>
   <div class="column-twitter right">
-    <a class="twitter-timeline" data-width="400" data-tweet-limit=3 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-tweet-limit=3 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
