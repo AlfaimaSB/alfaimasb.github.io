@@ -11,7 +11,7 @@ header:
 <div class="row">
   <div class="column-twitter left">
     <h2>Welcome!</h2>
-    <p>I am an Instructor of Industrial Engineering at Universidad de los Andes, in Colombia. On my website you may find about my research and teaching. </p>
+    <p>I am an Instructor of Industrial Engineering at Universidad de los Andes, in Colombia. On my website you may find about my research and teaching.</p>
   </div>
   <div class="column-twitter right">
     <a class="twitter-timeline" data-tweet-limit=3 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
