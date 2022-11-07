@@ -10,17 +10,11 @@ header:
 
 Welcome to my personal website.
 
-<section id="main-description">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-8">
-        ...
-      </div>
-      <div class="col-lg-4 col-md-4">
-        <div>
-          <a class="twitter-timeline" data-width="400" data-tweet-limit=5 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-      </div>
-    </div>
+<div class="row">
+  <div class="column-twitter left">
+    ...
   </div>
-  </section>
+  <div class="column-twitter right">
+    <a class="twitter-timeline" data-width="400" data-tweet-limit=5 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
