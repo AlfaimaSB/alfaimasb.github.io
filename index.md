@@ -12,10 +12,10 @@ Welcome to my personal website.
 <section id="main-description">
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
-        Let's add some content here
+      <div class="col-lg-8 col-md-8">
+        ...
       </div>
-      <div class="col-md-4">
+      <div class="col-lg-4 col-md-4">
         <div>
           <a class="twitter-timeline" href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
