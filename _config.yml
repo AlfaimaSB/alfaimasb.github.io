@@ -16,8 +16,8 @@
 title: Alfaima L. Solano Blanco
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Instructor at Universidad de los Andes.
-  Operations research and analytics for decision making in sustainable supply chains
+  Instructor of Industrial Engineering </br>
+  Universidad de los Andes
 twitter_username: AlfaimaSB
 github_username: AlfaimaSB
 minimal_mistakes_skin: default
@@ -59,8 +59,7 @@ plugins:
 author:
   name   : "Alfaima L. Solano-Blanco"
   avatar : "/assets/images/profile-photo.png"
-  bio    : "Instructor at Universidad de los Andes \n
-  Operations research and analytics for decision making in sustainable supply chains"
+  bio    : "Instructor of Industrial Engineering \n Universidad de los Andes"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

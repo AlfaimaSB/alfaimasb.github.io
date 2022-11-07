@@ -50,11 +50,11 @@ html {
 }
 
 .left {
-  width: 65%;
+  width: 60%;
 }
 
 .right {
-  width: 35%;
+  width: 40%;
 }
 
 /* Clear floats after the columns */
@@ -70,3 +70,5 @@ html {
     width: 100%;
   }
 }
+
+$max-width:100%;
