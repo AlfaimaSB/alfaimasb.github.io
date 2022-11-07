@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Research"
     url: /journalarticles/
+  - title: "Teaching"
+    url: /teaching/
