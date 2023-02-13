@@ -19,7 +19,7 @@ td, th {
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
 |2020-2022| Optimization principles | 2Y | 3 | 40 | Lecturer |
 |2020-2022| Decision support systems | 1Y | 3 | 50 | Lecturer |
-|2020-2022| Modelling and improvement of processes | MA[^1] | 4 | 40 | Assitant lecturer |
+|2020-2022| Modelling and improvement of processes | MSc[^1] | 4 | 40 | Assitant lecturer |
 
 
 ## Student supervision
@@ -31,12 +31,14 @@ td, th {
 
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
 | | **Universidad de los Andes** | | | | |
-|2022-2022| Optimization for decision making (Coursera) | MA[^2] | 2 | 90 | Assitant lecturer |
+|2022-2022| Optimization for decision making (Coursera) | MSc[^2] | 2 | 90 | Assitant lecturer |
 |2020-2022| Intermediate project: business consulting | 3Y | 3 | 15 | 	Project team mentor |
-|2019-2020| Advanced optimization | MSc | 4 | 50 | Teaching assistant |
+|2019-2020| Advanced optimization | MSc[^3] | 4 | 50 | Teaching assistant |
 |2018-2020| Optimization principles | 2Y | 3 | 40 | Teaching assistant |
 
 
-[^1]: Master in arts. [Maestría en Inteligencia Analítica para la Toma de Decisiones](https://industrial.uniandes.edu.co/es/programas-academicos/maestria-miia?utm_source=google&utm_medium=cpc&utm_campaign=edco-miiapre-google-cpc-cco&utm_content=int-ooo&utm_term=tad-ooo)
+[^1]: [Maestría en Inteligencia Analítica para la Toma de Decisiones](https://industrial.uniandes.edu.co/es/programas-academicos/maestria-miia?utm_source=google&utm_medium=cpc&utm_campaign=edco-miiapre-google-cpc-cco&utm_content=int-ooo&utm_term=tad-ooo)
 
-[^2]: Master in arts. [Maestría en Inteligencia Analítica de Datos](https://industrial.uniandes.edu.co/es/programa-academico/maestria-en-inteligencia-analitica-de-datos-MIAD)
+[^2]: [Maestría en Inteligencia Analítica de Datos](https://industrial.uniandes.edu.co/es/programa-academico/maestria-en-inteligencia-analitica-de-datos-MIAD)
+
+[^3]: [Maestría en Ingeniería Industrial](https://industrial.uniandes.edu.co/es/programas-academicos/maestrias/ingenieria-industrial)
