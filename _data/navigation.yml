@@ -2,6 +2,12 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: /journalarticles/
+    url: /research/
   - title: "Teaching"
     url: /teaching/
+
+research:
+  - title: "Journal articles"
+    url: /journalarticles/
+  - title: "Presentations"
+    url: /presentations/

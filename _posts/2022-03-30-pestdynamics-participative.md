@@ -35,4 +35,4 @@ First, the synthesized model could not be validated with the farmers due to the 
 
 CBSD has not been applied to agricultural systems to analyze impacts from pests at the local and regional levels. The results of this study contribute to designing future interventions for pest control in the region, along with the factors which may turn out to be “side effects” or unwanted results. To design pest control interventions at a regional level, a sound understanding of the variables or factors that control the system dynamics at various levels is required. This study represents the first step towards that end.
 
-[(View all publications)]({% link _pages/journalarticles.md %})
+[(View all publications)]({% link _pages/research.md %})
