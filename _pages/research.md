@@ -13,9 +13,13 @@ toc_label: "Research"
 
 # Articles in peer-reviewed journals
 
+## 2023
+
+3\. Solano-Blanco, A. L., González, J. E., & Medaglia, A. L. (2023). [Production planning decisions in the broiler chicken supply chain with growth uncertainty]({% link _posts/2023-02-27-broiler-growth.md %}). Operations Research Perspectives, 10, 100273. [https://doi.org/10.1016/j.orp.2023.100273](https://doi.org/10.1016/j.orp.2023.100273) (🟢 Open Access)
+
 ## 2022
 
-2\. Blanco, M., Montes, F., Borrero-Echeverry, F., Solano-Blanco, A.L., Gomez, C., Zuluaga, P., Rivera-Trujillo, H.F. and Rincon, D.F. (2022), [A participative system methodology to model pest dynamics in an agricultural setting]({% link _posts/2022-03-30-pestdynamics-participative.md %}), Kybernetes, [https://doi.org/10.1108/K-08-2021-0663](https://doi.org/10.1108/K-08-2021-0663)
+2\. Blanco, M., Montes, F., Borrero-Echeverry, F., Solano-Blanco, A.L., Gomez, C., Zuluaga, P., Rivera-Trujillo, H.F. and Rincon, D.F. (2022), [A participative system methodology to model pest dynamics in an agricultural setting]({% link _posts/2022-03-30-pestdynamics-participative.md %}), Kybernetes, [https://doi.org/10.1108/K-08-2021-0663](https://doi.org/10.1108/K-08-2021-0663) <span class="__dimensions_badge_embed__" data-doi="10.1108/K-08-2021-0663" data-style="small_rectangle"></span>
 
 ## 2020
 

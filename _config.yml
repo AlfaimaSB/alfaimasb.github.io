@@ -16,8 +16,8 @@
 title: Alfaima L. Solano Blanco
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Instructor of Industrial Engineering <br/>
-  Universidad de los Andes
+  PhD Candidate<br/>
+  Eindhoven University of Technology (TU/e)
 twitter_username: AlfaimaSB
 github_username: AlfaimaSB
 minimal_mistakes_skin: default
@@ -59,14 +59,14 @@ plugins:
 author:
   name   : "Alfaima L. Solano-Blanco"
   avatar : "/assets/images/profile-photo.png"
-  bio    : "Instructor of Industrial Engineering <br/> Universidad de los Andes"
+  bio    : "PhD Candidate <br/> Eindhoven University of Technology (TU/e)"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alfaimasolano/"
     - label: "University page"
       icon: "fa fa-fw fa-university"
-      url: "https://academia.uniandes.edu.co/AcademyCv/al.solano"
+      url: "https://research.tue.nl/en/persons/alfaima-solano-blanco"
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.com/citations?user=4iCKaIMAAAAJ&hl=en"
