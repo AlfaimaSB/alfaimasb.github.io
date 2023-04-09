@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-## Current courses at Universidad de los Andes
+## Current courses
 
 <style>
 td, th {
@@ -17,9 +17,8 @@ td, th {
 </style>
 
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
-|2020-2022| Optimization principles | 2Y | 3 | 40 | Lecturer |
-|2020-2022| Decision support systems | 1Y | 3 | 50 | Lecturer |
-|2020-2022| Modelling and improvement of processes | MSc[^1] | 4 | 40 | Assitant lecturer |
+| | **Universidad de los Andes** | | | | |
+|2022-2023| Optimization for decision making (Coursera) | MSc[^2] | 2 | 120 | Assistant lecturer |
 
 
 ## Student supervision
@@ -31,7 +30,9 @@ td, th {
 
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
 | | **Universidad de los Andes** | | | | |
-|2022-2022| Optimization for decision making (Coursera) | MSc[^2] | 2 | 90 | Assitant lecturer |
+|2020-2022| Optimization principles | 2Y | 3 | 40 | Lecturer |
+|2020-2022| Decision support systems | 1Y | 3 | 50 | Lecturer |
+|2020-2022| Modelling and improvement of processes | MSc[^1] | 4 | 40 | Assistant lecturer |
 |2020-2022| Intermediate project: business consulting | 3Y | 3 | 15 | 	Project team mentor |
 |2019-2020| Advanced optimization | MSc[^3] | 4 | 50 | Teaching assistant |
 |2018-2020| Optimization principles | 2Y | 3 | 40 | Teaching assistant |
