@@ -11,7 +11,10 @@ header:
 <div class="row">
   <div class="column-twitter left">
     <h2>Welcome!</h2>
-    <p>I am a PhD Candidate at Eindhoven University of Technology (TU/e). On my website you may find about my research.</p>
+    <p>I am a PhD Candidate at Eindhoven University of Technology (TU/e).<br>Currently exploring sustainable production planning and in-field logistics for arable crops 🌱</p>
+    <p>👉 Want to know more about me? <a href="/about/" >Check my bio 📚</a><br>
+       🔍 Want to explore my research? <a href="/research/">Click here 🧪</a><br>
+       👩‍🏫 Want to know about my teaching? <a href="/teaching/">Click here 🎓</a></p>
   </div>
   <div class="column-twitter right">
     <a class="twitter-timeline" data-tweet-limit=3 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
