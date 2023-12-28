@@ -15,7 +15,7 @@ toc_label: "Research"
 
 ## 2023
 
-4\. Van Hoof, B., Solano, A., Riaño, J., Mendez, C., & Medaglia, A. (2023). [Decision-making for circular economy implementation in agri-food systems: A transdisciplinary case study of cacao in Colombia]({% link _posts/2023-12-23-circular-agro.md %}). Journal of Cleaner Production, 140307. [https://doi.org/10.1016/j.jclepro.2023.140307](https://doi.org/10.1016/j.jclepro.2023.140307)
+4\. Van Hoof, B., Solano-Blanco, A. L., Riaño, J., Mendez, C., & Medaglia, A. (2023). [Decision-making for circular economy implementation in agri-food systems: A transdisciplinary case study of cacao in Colombia]({% link _posts/2023-12-23-circular-agro.md %}). Journal of Cleaner Production, 140307. [https://doi.org/10.1016/j.jclepro.2023.140307](https://doi.org/10.1016/j.jclepro.2023.140307)
 
 3\. Solano-Blanco, A. L., González, J. E., & Medaglia, A. L. (2023). [Production planning decisions in the broiler chicken supply chain with growth uncertainty]({% link _posts/2023-02-27-broiler-growth.md %}). Operations Research Perspectives, 10, 100273. [https://doi.org/10.1016/j.orp.2023.100273](https://doi.org/10.1016/j.orp.2023.100273) (🟢 Open Access) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.orp.2023.100273" data-style="small_rectangle"></span>
 
