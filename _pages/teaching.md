@@ -19,6 +19,8 @@ td, th {
 ## Past courses
 
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
+| | **Technical University of Eindhoven** | | | | |
+|2023| Quality and reliability engineering | 2Y | 5 | 216 | Teaching assistant | 
 | | **Universidad de los Andes** | | | | |
 |2022-2023| Optimization for decision making (Coursera) | MSc[^1] | 2 | 120 | Assistant lecturer |
 |2020-2022| Optimization principles | 2Y | 3 | 40 | Lecturer |
@@ -35,6 +37,8 @@ td, th {
 | BEng | Juan Camilo Pico Garrido | Predicción de la productividad del cultivo de cacao en el Meta (Colombia)
 | BEng | Santiago Palma Méndez   | Herramienta de apoyo a la decisión para la simulación de escenarios en el contexto de la reforma del programa de pregrado en Ingeniería Industrial 
 | BEng | Nicolás Torres Vanegas | Sistema de apoyo a la decisión para el direccionamiento estratégico y seguimiento de indicadores de una pyme del sector de juegos mecánicos en centros comerciales
+| BEng | Juliana Murcia Molano Camila Sánchez Mejía | Sistema de apoyo a la decisión para la estimación de la productividad de los cultivos de café en el Meta
+| BEng | Yurley Katherinne Quiroga Durán | Clasificación automática de artículos académicos mediante modelos de machine learning
 
 
 [^1]: [Maestría en Inteligencia Analítica de Datos](https://industrial.uniandes.edu.co/es/programa-academico/maestria-en-inteligencia-analitica-de-datos-MIAD)
