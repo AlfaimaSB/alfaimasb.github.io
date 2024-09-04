@@ -11,5 +11,6 @@ classes: wide
     <li>Foo</li>
     <li>Bar</li>
   </ul>
+  <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
 </div>
