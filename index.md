@@ -16,7 +16,4 @@ header:
        🔍 Want to explore my research? <a href="/research/">Click here 🧪</a><br>
        👩‍🏫 Want to know about my teaching? <a href="/teaching/">Click here 🎓</a></p>
   </div>
-  <div class="column-twitter right">
-    <a class="twitter-timeline" data-tweet-limit=3 href="https://twitter.com/AlfaimaSB?ref_src=twsrc%5Etfw">Tweets by AlfaimaSB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
 </div>
