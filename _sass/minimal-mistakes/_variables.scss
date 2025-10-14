@@ -2,16 +2,12 @@
    Variables
    ========================================================================== */
 
-$small: 480px;
-$medium: 768px;
-$large: 1024px;
-$x-large: 1200px;
-
 /*
    Typography
    ========================================================================== */
 
 $doc-font-size: 12 !default;
+$doc-font-size-medium: 16px; 
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
