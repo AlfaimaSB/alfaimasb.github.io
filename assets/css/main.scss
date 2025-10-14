@@ -7,14 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$doc-font-size-small: 16px; 
+$doc-font-size-medium: 16px; 
+$doc-font-size-large: 16px; 
+$doc-font-size-x-large: 18px; 
 
 /*
 GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
 See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
-
-$doc-font-size-medium: 16px; 
 
 /*
 GS: Decrease font sizes of the entire website.
