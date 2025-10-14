@@ -20,7 +20,8 @@ td, th {
 
 | **Period** | **Course** | **Level** | **Credits** | **Students** | **Role**|
 | | **Technical University of Eindhoven** | | | | |
-|2023| Quality and reliability engineering | 2Y | 5 | 216 | Teaching assistant | 
+|2023-| Quality and reliability engineering | 2Y | 5 | 216 | Teaching assistant | 
+|2023-| Manufacturing integration | 2Y | 5 | 179 | Teaching assistant | 
 | | **Universidad de los Andes** | | | | |
 |2022-2023| Optimization for decision making (Coursera) | MSc[^1] | 2 | 120 | Assistant lecturer |
 |2020-2022| Optimization principles | 2Y | 3 | 40 | Lecturer |
@@ -39,6 +40,8 @@ td, th {
 | BEng | Nicolás Torres Vanegas | Sistema de apoyo a la decisión para el direccionamiento estratégico y seguimiento de indicadores de una pyme del sector de juegos mecánicos en centros comerciales
 | BEng | Juliana Murcia Molano Camila Sánchez Mejía | Sistema de apoyo a la decisión para la estimación de la productividad de los cultivos de café en el Meta
 | BEng | Yurley Katherinne Quiroga Durán | Clasificación automática de artículos académicos mediante modelos de machine learning
+| | | **Technical University of Eindhoven** | 
+| Beng | Jorn Beenders | Effect of disruptions on the idle time in the mixed model module assembly line at Canon production printing
 
 
 [^1]: [Maestría en Inteligencia Analítica de Datos](https://industrial.uniandes.edu.co/es/programa-academico/maestria-en-inteligencia-analitica-de-datos-MIAD)
